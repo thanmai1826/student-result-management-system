@@ -1,0 +1,17 @@
+# Student Result Management System - Dependencies
+# This file lists all Python packages required to run the project
+
+# No external dependencies required!
+# The project uses only Python standard library modules:
+# - sqlite3 (built-in)
+# - os (built-in)
+# - sys (built-in)
+# - pathlib (built-in)
+
+# However, if you want to use enhanced database features,
+# you can install these optional packages:
+# pandas>=1.5.0
+# openpyxl>=3.0.0
+
+# For development and testing:
+# pytest>=7.0.0
